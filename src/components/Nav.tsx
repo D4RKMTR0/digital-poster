@@ -18,7 +18,9 @@ function Navbar() {
     ${scrolled ? 'bg-[var(--bg)/90] backdrop-blur-md border-b border-white/10' : ''}`}
         >   
             <div className='flex gap-15 items-center'> 
-                <span className="ml-9 font-medium flex gap-2"><Trees />Climate Change PH</span>
+                <a href='#hero'>
+                    <span className="ml-9 font-medium flex gap-2"><Trees />Climate Change PH</span>
+                </a>
                 <ul className='hidden sm:flex gap-4'>
                     <li>
                         <a href="#laws">

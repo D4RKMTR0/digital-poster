@@ -2,7 +2,7 @@ import ScrollIndicator from "./ui/ScrollIndicator";
 
 function Hero() {
   return (
-    <section className="relative min-h-screen flex flex-col items-center justify-center text-center px-6">
+    <section className="relative min-h-screen flex flex-col items-center justify-center text-center px-6" id="hero">
       <div className="hero-grid" />
         <h1 className="text-6xl font-black tracking-tight">
             Laws and Programs <br />
