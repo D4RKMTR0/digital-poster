@@ -2,7 +2,7 @@
 
 A clean and modern single-page website diving into the laws, programs and history behind the Philippines' fight against climate change.
 
-Build as a school project for Araling Panlipunan, 8th Grade.
+Built as a school project for Araling Panlipunan, 8th Grade.
 
 ## Live Demo
 
