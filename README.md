@@ -31,8 +31,8 @@ Build as a schoo project for Araling Panlipunan, 8th Grade.
 ## Running Locally
 
 ```bash
-git clone https://github.com/yourusername/kalikasan
-cd kalikasan
+git clone https://github.com/D4RKMTR0/climate-change-ph
+cd climate-change-ph
 npm install
 npm run dev
 ```
