@@ -95,7 +95,7 @@ function History() {
 
         <FadeIn direction="up" distance={16} delay={100} duration={600}>
           <p className="text-white/45 mb-16 max-w-md leading-relaxed">
-            From the first international commitments to the laws and plans that followed — how the Philippines got here.
+            From the first international commitments to the laws and plans that followed. A timeline about how the Philippines got here.
           </p>
         </FadeIn>
 
